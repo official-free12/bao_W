@@ -1,0 +1,6 @@
+# 包mt5搭建MT4软件系统MT5软件CRM系统搭建插件外汇白标主标crm系统
+
+CRM系统管理端：example.com<br>管理员账户：telegram @wanchengmubiao<br>密码：222233<br>客户端pc端：example.com<br>手机端：example.com<br>测试账户：  telegram @wanchengmubiao<br>密码：    123456<br>外汇CRM系统源码，同时支持MT4、MT5和MT4破解版进行对接使用，支持代理返佣自由进行设置，可自动实时同步manager后台分组、交易品种和客户所有信息。包括带有内部实时内转功能，支持任何第三方支付、区块链和电子钱包。整套系统功能齐全并且带跟单社区系统 和系统。可节约公司大量租用成本和防止第三方公司泄露客户资料等核心数据 源码没有加密和授权<br>首页：代办事项，认证审核，开户审核，入金审核，出金审核。平台总览:今日入金，今日出金，入金合计，出金合计，今日返佣，返佣合计，用户总数，今日新增用户。交易总览：总利息，账号总数，平仓总交易量，持仓总交易量，总交易盈亏，总浮动盈亏，总手续费。仪表数据：出金，入金，总交易量（7天，30天，90天）新增客户（7天，30天，90天），返佣（7天，30天，90天）；任务:认证审核，开户审核，入金审核，出金审核。客户：CRM用户，CRM上下级 ，MT5账户。报表：财务报表，入金报表，出金报表，转账报表 ，资金报表，统计报表。交易报表，佣金报表。记录：邮件记录，通知记录，操作日志。设置：CRM设置，平台设置，安全设置，认证设置，通用设置，MT5设置，出入金设置，返佣设置，消息设置，用户管理，后台权限，下载中心等。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/e0ewY" style="color: red;">https://mega-file.org/e0ewY</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
